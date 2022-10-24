@@ -1,11 +1,1 @@
-FORMAÇÃO - OBJETIVO
-
-Hélio Brito nascido no interior de Mato Grosso, em Nossa Senhora do Livramento, em janeiro de 1974, aos 4 anos perdi minha visão esquerda e me tornei PCD.
-diplomando em Bacharel em Ciências Contábeis Instituição: Unic – Universidade de Cuiabá Ano de Conclusão 2001. Antes dessa época eu já trabalhava na aérea contábil já tinha sido Office Boy, digitador e como me formei em técnico em contabilidade no meu segundo grau, entrei para faculdade com conhecimento já adquirido, mas não o suficiente, a faculdade na sequencia ajudar abrir portas.
-
-                 Carreira desenvolvida na área contábil 25 anos de experiência profissional em Carreira desenvolvida na área Contábil, atuando nos segmentos de concessionária, farmacêutico, T.I, Financeira, Contabilidade, Auditoria interna, acompanhamento da auditoria externa, fiscal, custos, atividades desenvolvidas: Implantação ERP – SAP; Cadastros de fornecedores/clientes, produtos, ativos, contas contábeis e impostos; Preparação de relatórios gerenciais, determinações de classificação fiscais de produtos. Escriturações de Fiscais (SPED EFD/ICMS/IPI, SPED EFD CONTRIBUIÇÕES, EFD REINF_DCTF WEB), SPED ECD.
-                 
-                 Meu interesse por Tecnologia está ligado com a contabilidade, trabalhando como contador sempre estive ligado Basicamente utilizava de consulta de banco de dados em SQL somente para “puxar” de relatórios dos clientes que utilizam de Softwares instalada a qual é contratada pela Empresa onde é tratada pelo TEF. As ferramentas utilizavam: IP de servidores, VPN, Consulta básica em SQL (Muito raro), E-mail e o Chat para atendimento dos clientes, atualização/criação de manual de usuário para os clientes e mapeamento de listas dos clientes solicitada pelos analistas, aqui o Sql como conhecia as tabelas eu configurava as alíquotas de impostos e exportava planilhas para o Excel, identificação de erros em xmls de notas fiscais eletrônicas, mas sempre com muito curiosidade de aprender e ajudar as pessoas dessa forma consegui aprender bem pouco por ter aprofundado tanto.
-                 
-                 Tenho conhecimento básico e intermediário em linguagens: HTML, CSS e as linguagens de programação que tive mais contatos são Java Scripts e Sql, ainda muito básico.
-                 Contabilidade demanda muito foco, persistência e determinação por se assemelhar com tecnologia, com isso estou em busca de Transição de carreira.
+PERFIL - HÉLIO BRITO
